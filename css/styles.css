@@ -97,9 +97,11 @@ body{
 	height: 400px;
 }
 .third-box-two>div{
-	width: 800px;
 	height: 200px;
 	outline: solid red;
+}
+.third-box-two{
+	width: 800px;
 }
 .third-box > div {
 	outline: solid red;
